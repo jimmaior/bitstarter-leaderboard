@@ -30,7 +30,7 @@ var Constants = {
   PRODUCT_SHORT_DESCRIPTION: "Eating Well Made Easy Software.",
   TWITTER_USERNAME: "youeatwell",
   TWITTER_TWEET: "This app looks promising.",
-  COINBASE_PREORDER_DATA_CODE: "569242640d59ff74960a6d130d775eb8",
+  COINBASE_PREORDER_DATA_CODE: "enter the data code here",
   days_left: function() {
       return Math.max(Math.ceil((this.FUNDING_END_DATE - new Date()) / (1000*60*60*24)), 0);
   }
