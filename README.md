@@ -95,7 +95,7 @@ never be checked into a git repository; that's why we exclude it in the
 $ cp .env.dummy .env
 $ emacs -nw .env  # Add key from coinbase.com/account/integrations
 $ cat .env
-COINBASE_API_KEY=cb27e2ef0a8872f7923612d4d57937e70476ab8041455b00b35d1196cf80f50d
+COINBASE_API_KEY=xxxxxxxxxx
 PORT=8080
 ```
 
