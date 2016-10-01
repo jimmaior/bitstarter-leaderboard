@@ -105,7 +105,7 @@ code that is meant to be embedded in a public-facing webpage, so it's ok if
 you check this into git.
 
 ```js
-  COINBASE_PREORDER_DATA_CODE: "13b56883764b54e6ab56fef3bcc7229c",
+  COINBASE_PREORDER_DATA_CODE: "xxxxxx",
 ```
 
 3. Now you can run the server locally and preview at a URL like
